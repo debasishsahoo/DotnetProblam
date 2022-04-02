@@ -1,0 +1,5 @@
+D:\.netprojects\Sol\Problem2\obj\Debug\Problam2.csproj.AssemblyReference.cache
+D:\.netprojects\Sol\Problem2\obj\Debug\Problam2.csproj.SuggestedBindingRedirects.cache
+D:\.netprojects\Sol\Problem2\obj\Debug\Problam2.csproj.CoreCompileInputs.cache
+D:\.netprojects\Sol\Problem2\obj\Debug\Problem2.exe
+D:\.netprojects\Sol\Problem2\obj\Debug\Problem2.pdb

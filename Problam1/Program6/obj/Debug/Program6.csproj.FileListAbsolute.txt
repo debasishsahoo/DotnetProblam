@@ -1,0 +1,7 @@
+D:\.netprojects\Sol\Problam1\Program6\bin\Debug\Program6.exe.config
+D:\.netprojects\Sol\Problam1\Program6\bin\Debug\Program6.exe
+D:\.netprojects\Sol\Problam1\Program6\bin\Debug\Program6.pdb
+D:\.netprojects\Sol\Problam1\Program6\obj\Debug\Program6.csproj.SuggestedBindingRedirects.cache
+D:\.netprojects\Sol\Problam1\Program6\obj\Debug\Program6.csproj.CoreCompileInputs.cache
+D:\.netprojects\Sol\Problam1\Program6\obj\Debug\Program6.exe
+D:\.netprojects\Sol\Problam1\Program6\obj\Debug\Program6.pdb

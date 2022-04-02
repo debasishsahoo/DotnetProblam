@@ -1,0 +1,8 @@
+D:\.netprojects\Sol\Problam5\bin\Debug\Problam5.exe.config
+D:\.netprojects\Sol\Problam5\bin\Debug\Problam5.exe
+D:\.netprojects\Sol\Problam5\bin\Debug\Problam5.pdb
+D:\.netprojects\Sol\Problam5\obj\Debug\Problam5.csproj.AssemblyReference.cache
+D:\.netprojects\Sol\Problam5\obj\Debug\Problam5.csproj.SuggestedBindingRedirects.cache
+D:\.netprojects\Sol\Problam5\obj\Debug\Problam5.csproj.CoreCompileInputs.cache
+D:\.netprojects\Sol\Problam5\obj\Debug\Problam5.exe
+D:\.netprojects\Sol\Problam5\obj\Debug\Problam5.pdb

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Problem2.BigPhotoAlbum">
+    <Position X="296.5" Y="295.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BigPhotoAlbum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Problem2.PhotoAlbum">
+    <Position X="300" Y="295.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>PhotoAlbum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Problem2.AlbumTest">
+    <Position X="303.5" Y="295.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>
