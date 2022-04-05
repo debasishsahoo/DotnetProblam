@@ -29,10 +29,7 @@ namespace Program10
             return this.day - other.day;
         }
 
-        public int CompareTo(object obj)
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 
     class TestDate

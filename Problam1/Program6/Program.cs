@@ -18,6 +18,7 @@ namespace Program6
             Car car = new Car(0);
 
             int fuel = int.Parse(Console.ReadLine());
+
             if (car.Refuel(fuel))
             {
                 car.Drive();

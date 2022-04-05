@@ -29,6 +29,7 @@ namespace Problam9
         private string course;
         private int feepaid;
         private static double servicetax = 12.3;
+
         public Student(int rollno, string name, string course)
         {
             this.rollno = rollno;

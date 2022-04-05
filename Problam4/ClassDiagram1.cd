@@ -8,21 +8,21 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Problam4.ExcursionVan">
-    <Position X="2.75" Y="5.75" Width="1.5" />
+    <Position X="7.75" Y="4.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ExcursionVan.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Problam4.Minivan">
-    <Position X="9.5" Y="3.75" Width="4" />
+    <Position X="10.25" Y="3.25" Width="4" />
     <TypeIdentifier>
       <HashCode>AAAAAABAIAAAAAAAAAAAAAAAAAIQAIAABAAAAAAAAAA=</HashCode>
       <FileName>Minivan.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Problam4.TestVehicles">
-    <Position X="9.75" Y="1.25" Width="2.75" />
+    <Position X="11.5" Y="1.5" Width="4" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
@@ -36,7 +36,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Problam4.Van">
-    <Position X="7.5" Y="1.75" Width="1.5" />
+    <Position X="7.5" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Van.cs</FileName>

@@ -8,7 +8,12 @@ namespace Problam1
 {
     class Person
     {
+        //Fields
         protected int age;
+
+
+
+        //Methods
         public void Greet()
         {
             Console.WriteLine("Hello");
